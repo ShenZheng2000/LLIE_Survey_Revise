@@ -10,14 +10,24 @@
 
 * **Wenzhou Dataset Value**: (R4P2) The Night Wenzhou dataset is challenging, but more analysis and discussion are needed to demonstrate its value. Quantitative comparison results for this dataset are also missing.
 
+
+# Literature Review:
+
+* **Differentiate from Others**: (R1P6) The paper should differentiate itself from other surveys or benchmarks on the topic of low-light image enhancement.
+
+* **Literature Expansion**: (R5P1, R5P2) A need for a more comprehensive literature review, especially including works based on Near-Infrared (NIR) light and other high-level applications.
+
+* **Redundant Figures**: (R5P3, R5P4, R5P5, R5P6) There's feedback that some figures, like framework figures from other papers, might be redundant and can be removed. The figures should be clearer and more comprehensible.
+
+* **Missing Works**: (R3P2) Some works, particularly on noise distribution modeling in extremely dark environments, are missing.
+
+
 # Evaluation and Analysis:
+
 * **Fig.16 Clarity**: (R1P2, R2P4) Clarifications are required on what the color means in Fig.16. Multiple reviewers pointed out this issue.
 
 * **Method Emphasis**: (R2P3) There's feedback that the paper emphasizes methods introduced in recent years too much, and there's a need to include more established methods for a more comprehensive performance comparison.
 
-* **Missing Works**: (R3P2) Some works, particularly on noise distribution modeling in extremely dark environments, are missing.
-
-# Structure and Content:
 * **Image/Video Confusion**: (R1P3) The paper seems to mix discussions of low-light image and video enhancement, making it hard for readers to differentiate between the two. Video enhancement is not as elaborately explained as image enhancement.
 
 * **Re-categorization**: (R2P1) There's feedback to re-categorize traditional learning-based approaches for clarity.
@@ -26,15 +36,11 @@
 
 * **Video Enhancement Models**: (R4P1) There's a perceived lack of models specifically designed for video enhancement.
 
-# Literature Review:
-* **Differentiate from Others**: (R1P6) The paper should differentiate itself from other surveys or benchmarks on the topic of low-light image enhancement.
-
-* **Literature Expansion**: (R5P1, R5P2) A need for a more comprehensive literature review, especially including works based on Near-Infrared (NIR) light and other high-level applications.
-
-* **Redundant Figures**: (R5P3, R5P4, R5P5, R5P6) There's feedback that some figures, like framework figures from other papers, might be redundant and can be removed. The figures should be clearer and more comprehensible.
 
 # Writing and Presentation:
+
 * **Grammar/Claims**: (R1P7, R2P5, R3P5) Multiple grammatical errors, typos, and strong claims were noted, requiring careful proofreading and potential rephrasing.
 
 # Relevance to the Journal:
+
 * **Journal Relevance**: (Final Paragraph) The paper needs to address its relevance to the journal, especially in terms of its topic and the literature cited. Questions arise about whether such topics have been published in TNNLS before and, if not, why it would be relevant now.
