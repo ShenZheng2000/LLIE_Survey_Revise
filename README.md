@@ -13,13 +13,13 @@
 
 # Literature Review:
 
-* **Differentiate from Others**: (R1P6) The paper should differentiate itself from other surveys or benchmarks on the topic of low-light image enhancement.
+* **Literature Expansion**: (R5P1, R5P2, R3P2, R4P1, R1P3) A need for a more comprehensive literature review, especially including works based on Near-Infrared (NIR) light, noise distribution modeling in extremely dark environments, video enhancement models, and other high-level applications.
 
-* **Literature Expansion**: (R5P1, R5P2) A need for a more comprehensive literature review, especially including works based on Near-Infrared (NIR) light and other high-level applications.
+* **Redundant Figures**: (R5P3, R5P4, R5P5, R5P6) Some figures, like framework figures from other papers, might be redundant and can be removed. 
 
-* **Redundant Figures**: (R5P3, R5P4, R5P5, R5P6) There's feedback that some figures, like framework figures from other papers, might be redundant and can be removed. The figures should be clearer and more comprehensible.
+* **Network Division**: (R3P3) The divisions of some network structures are not seen as appropriate (e.g., normalizing flow and optical flow)
 
-* **Missing Works**: (R3P2) Some works, particularly on noise distribution modeling in extremely dark environments, are missing.
+* **Re-categorization**: (R2P1) There's feedback to re-categorize traditional learning-based approaches for clarity. (e.g., HE should be stat, dehaze based on Retinex)
 
 
 # Evaluation and Analysis:
@@ -28,18 +28,12 @@
 
 * **Method Emphasis**: (R2P3) There's feedback that the paper emphasizes methods introduced in recent years too much, and there's a need to include more established methods for a more comprehensive performance comparison.
 
-* **Image/Video Confusion**: (R1P3) The paper seems to mix discussions of low-light image and video enhancement, making it hard for readers to differentiate between the two. Video enhancement is not as elaborately explained as image enhancement.
-
-* **Re-categorization**: (R2P1) There's feedback to re-categorize traditional learning-based approaches for clarity.
-
-* **Network Division**: (R3P3) The divisions of some network structures are not seen as appropriate.
-
-* **Video Enhancement Models**: (R4P1) There's a perceived lack of models specifically designed for video enhancement.
-
 
 # Writing and Presentation:
 
 * **Grammar/Claims**: (R1P7, R2P5, R3P5) Multiple grammatical errors, typos, and strong claims were noted, requiring careful proofreading and potential rephrasing.
+* **Differentiate from Others**: (R1P6) The paper should differentiate itself from other surveys or benchmarks on the topic of low-light image enhancement.
+
 
 # Relevance to the Journal:
 
