@@ -1,14 +1,12 @@
 # Concerns about Datasets:
 
-* **Datasets' Practicality**: (R1P1) Skepticism about the practicality of the SICE_Grad and SICE_Mix datasets, especially regarding their difference from real-life low-light scenarios and the use of permuting panels. More explanation about the design philosophy of these datasets is needed.
+* **Datasets' Practicality**: (R1P1, R3P1) Skepticism about the practicality of the SICE_Grad and SICE_Mix datasets, especially regarding their difference from real-life low-light scenarios and the use of permuting panels. More explanation about the design philosophy of these datasets is needed.
 
-* **Video Dataset Context**: (R1P5) Concerns about the Night Wenzhou video dataset not having corresponding normal light videos. More context on how the video is degraded, and how noise, blur, shadows, and artifacts are added is needed.
-
-* **Dataset Realism**: (R3P1) The proposed datasets, especially "SICE_Grad” and "SICE_Mix", are seen as not being reflective of real-world scenarios, and there's skepticism about their value as benchmarks.
+* **Video Dataset Context**: (R1P5) Concerns about the Night Wenzhou video dataset not having corresponding normal light videos. Besides, more context on how the video is degraded, and how noise, blur, shadows, and artifacts are added is needed.
 
 * **Dataset Artifacts/Copyright**: (R2P2) The boundary artifact in the new datasets, especially between different panels, needs analysis as they might distort the image semantics. Moreover, there is a concern regarding copyright issues since modifications have been made to the existing SICE dataset.
 
-* **Wenzhou Dataset Value**: (R4P2) The Night Wenzhou dataset is challenging, but more analysis and discussion are needed to demonstrate its value. Quantitative comparison results for this dataset are also missing.
+* **Dataset Value**: (R4P2) The Night Wenzhou dataset is challenging, but more analysis and discussion are needed to demonstrate its value. Quantitative comparison results for this dataset are also missing.
 
 
 # Literature Review:
